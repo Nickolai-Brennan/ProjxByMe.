@@ -72,6 +72,7 @@ ProjxByMe content is also available across various platforms, each providing a u
 - [Booksie](http://www.booksie.com/users/klaus-dreadful-354783)
 - [Tumblr](https://www.tumblr.com/klausdreadful)
 - [Typeshare](https://typeshare.co/)
+- [Notion](https://www.notion.com/nsbrennan1991/)
 
 ---
 
