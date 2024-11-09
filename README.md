@@ -1,32 +1,69 @@
-# Platforms & Social Media
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Nickolai's Logo" width="150">
+</p>
 
-This file lists all the platforms and social media channels where I publish, share, and engage with content.
+<h1 align="center">Welcome to Nickolai's Repository</h1>
+<p align="center">Your central hub for all projects, writing platforms, and social media connections.</p>
 
 ---
 
-## Writing & Blog Platforms
+## Table of Contents
 
-- [![Differ Blog](https://img.shields.io/badge/Differ_Blog-Visit-blue?style=for-the-badge)](https://differ.blog/@ProjxByMe)
-- [![Wattpad](https://img.shields.io/badge/Wattpad-Visit-orange?style=for-the-badge)](https://www.wattpad.com/user/nsbrennan)
-- [![Medium](https://img.shields.io/badge/Medium-Visit-black?style=for-the-badge)](https://medium.com/@KlausDreadful)
-- [![Inkitt](https://img.shields.io/badge/Inkitt-Visit-FF4C4C?style=for-the-badge)](https://www.inkitt.com/klausdreadful)
-- [![Booksie](https://img.shields.io/badge/Booksie-Visit-5A4D9A?style=for-the-badge)](http://www.booksie.com/users/klaus-dreadful-354783)
-- [![Tumblr](https://img.shields.io/badge/Tumblr-Visit-35465C?style=for-the-badge)](https://www.tumblr.com/klausdreadful)
+- [Writing Platforms](#writing-platforms)
+- [Social Media](#social-media)
 
-## Professional Platforms
+---
 
-- [![Writer.com](https://img.shields.io/badge/Writer.com-Visit-purple?style=for-the-badge)](https://app.writer.com/organization/817259/profile)
+### Writing Platforms
 
-## Social Media
+<p align="center">
+  <a href="https://differ.blog/@ProjxByMe">
+    <img src="https://img.shields.io/badge/Differ_Blog-blue?style=for-the-badge&logo=differ" alt="Differ Blog">
+  </a>
+  <a href="https://www.wattpad.com/user/nsbrennan">
+    <img src="https://img.shields.io/badge/Wattpad-orange?style=for-the-badge&logo=wattpad" alt="Wattpad">
+  </a>
+  <a href="https://medium.com/@KlausDreadful">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium">
+  </a>
+  <a href="https://www.inkitt.com/klausdreadful">
+    <img src="https://img.shields.io/badge/Inkitt-FF4C4C?style=for-the-badge&logo=inkitt" alt="Inkitt">
+  </a>
+  <a href="http://www.booksie.com/users/klaus-dreadful-354783">
+    <img src="https://img.shields.io/badge/Booksie-5A4D9A?style=for-the-badge&logo=booksie" alt="Booksie">
+  </a>
+  <a href="https://www.tumblr.com/klausdreadful">
+    <img src="https://img.shields.io/badge/Tumblr-35465C?style=for-the-badge&logo=tumblr" alt="Tumblr">
+  </a>
+</p>
 
-- [![Twitter (X)](https://img.shields.io/badge/Twitter_(X)-Visit-1DA1F2?style=for-the-badge)](https://x.com/KlausDreadful)
-- [![Mix](https://img.shields.io/badge/Mix-Visit-FF5722?style=for-the-badge)](https://mix.com/nicholasbrennan)
-- [![Pinterest](https://img.shields.io/badge/Pinterest-Visit-E60023?style=for-the-badge)](https://www.pinterest.com/nsbrennan1991/)
-- [![Mastodon](https://img.shields.io/badge/Mastodon-Visit-6364FF?style=for-the-badge)](https://mastodon.social/@bygrimm)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-0077B5?style=for-the-badge)](https://www.linkedin.com/in/nicholassbrennan/)
+---
+
+### Social Media
+
+<p align="center">
+  <a href="https://x.com/KlausDreadful">
+    <img src="https://img.shields.io/badge/Twitter_(X)-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter (X)">
+  </a>
+  <a href="https://mix.com/nicholasbrennan">
+    <img src="https://img.shields.io/badge/Mix-FF5722?style=for-the-badge&logo=mix" alt="Mix">
+  </a>
+  <a href="https://www.pinterest.com/nsbrennan1991/">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest" alt="Pinterest">
+  </a>
+  <a href="https://mastodon.social/@bygrimm">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon" alt="Mastodon">
+  </a>
+  <a href="https://www.linkedin.com/in/nicholassbrennan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" alt="Discord">
+  </a>
+</p>
 
 ---
 
 ### About
 
-This document centralizes all the platforms and social media channels used to share content. 
+This repository serves as the central hub for Nickolai's work, resources, and ongoing projects. Each section is organized to streamline access to all platforms and social media connections. Check back regularly for updates!
